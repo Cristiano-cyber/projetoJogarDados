@@ -24,15 +24,15 @@ function App() {
       case 1:
         return <Img src={Dado1} alt="img1"/>
       case 2:
-        return <Img src={Dado2} alt="img2"/>
+        return <Img src={Dado2} />
       case 3:
-        return <Img src={Dado3} alt="img3"/>
+        return <Img src={Dado3} />
       case 4:
-        return <Img src={Dado4} alt="img4"/>
+        return <Img src={Dado4} />
       case 5:
-        return <Img src={Dado5} alt="img5"/>
+        return <Img src={Dado5} />
       case 6:
-        return <Img src={Dado6} alt="img6"/>     
+        return <Img src={Dado6} />     
     }
   }
 
