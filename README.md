@@ -1,5 +1,9 @@
 # Projeto-Jogar-Dados
 
+## Imagem:
+
+![jogarDados](https://user-images.githubusercontent.com/74628930/187693119-23e93307-f58c-4998-b87f-cdbb4b4ebac3.png)
+
 ## Apêndice:
 
 Projeto tem por objetivo simular o jogo de um dado 
