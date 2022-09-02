@@ -14,6 +14,9 @@ de 06 faces.
 - Interação do usuário para jogar o dado ao clicar no botão JOGAR.
 - Ao clicar no botão retorna o resultado do valor do dado. 
 
+##Testes
+
+- testes unitários rodando comando npm run test
 
 ## Deploy - Surge
 
