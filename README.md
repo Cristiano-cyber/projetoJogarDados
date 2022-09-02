@@ -16,7 +16,10 @@ de 06 faces.
 
 ##Testes
 
-- testes unitários rodando comando npm run test
+- testes unitários rodando <b> npm run test </b>
+- teste para localizar Titulo 
+- teste para localizar imagem pela tag Alt
+- teste para funcionalidade do botão 
 
 ## Deploy - Surge
 
